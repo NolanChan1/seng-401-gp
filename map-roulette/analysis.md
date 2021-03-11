@@ -26,7 +26,7 @@
 - #### com.pixeltron
 	- mapquest
 		- `mapquestapi` wrapper
-			- Handles geocoding in case FourSquare API is not used
+			- Handles geocoding in case FourSquare API is not used. Uses latitude/longitude waypoints.
 	- maproulette
 		- models
 		- responses
